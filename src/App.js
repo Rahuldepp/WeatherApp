@@ -49,7 +49,7 @@ function App() {
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Enter city (e.g. Delhi, IN)"
+          placeholder="city "
         />
         <button type="submit">🔍</button>
       </form>
@@ -84,8 +84,7 @@ function App() {
         )}
       </div>
 
-      <footer>Powered by Vishal</footer>
-    </div>
+     </div>
   );
 }
 

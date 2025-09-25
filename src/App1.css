@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to right, #4facfe, #00f2fe);
+    background: linear-gradient(to right, #cdd7df, #9acdcf);
     color: #fff;
     text-align: center;
     min-height: 100vh;
@@ -32,7 +32,7 @@ body {
   .search-box button {
     padding: 10px;
     border: none;
-    background: #283593;
+    background: #707ee9;
     color: #fff;
     border-radius: 0 8px 8px 0;
     cursor: pointer;
